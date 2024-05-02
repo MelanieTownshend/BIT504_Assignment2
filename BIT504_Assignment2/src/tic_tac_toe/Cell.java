@@ -1,3 +1,5 @@
+package tic_tac_toe;
+
 import java.awt.BasicStroke;
 import java.awt.Color;
 import java.awt.Graphics;
