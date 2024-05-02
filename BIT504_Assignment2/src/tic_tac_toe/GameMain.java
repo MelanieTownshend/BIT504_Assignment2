@@ -4,10 +4,6 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
-// Enumeration for the players move
-public enum Player {
-    Empty, Cross, Nought
-}
 
 public class GameMain extends JPanel implements MouseListener{
     // Constants for game
